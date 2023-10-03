@@ -1,0 +1,6 @@
+path : medical_plants/datasets
+train: images/train
+val: images/train
+
+nc: 4
+names: ['Azadirachta Indica-Neem-', 'Calotropis', 'Ficus Religiosa-Raavi-', 'Oleander']
